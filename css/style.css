@@ -766,6 +766,7 @@ body {
 }
 
 .modal-label {
+    display: block;
     color: #8E8F99;
     font-family: "Roboto", sans-serif;
     font-size: 12px;
@@ -774,6 +775,10 @@ body {
     line-height: 1.17;
     letter-spacing: 0.04em;
     margin-bottom: 4px;
+}
+
+.comment {
+    margin-bottom: 16px
 }
 
 .modal-input {
@@ -830,6 +835,10 @@ body {
 }
 
 .check-input {
+    margin-bottom: 24px;
+}
+
+.pricacy {
     margin-bottom: 24px;
 }
 
