@@ -854,6 +854,10 @@ body {
     align-items: center;
 }
 
+.icon-span {
+    display: inline-flex;
+}
+
 .check-text a {
     color: #4D5AE5;
     text-decoration: underline;
