@@ -690,6 +690,7 @@ body {
 }
 
 .is-open {
+    width: 100%;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
@@ -765,6 +766,7 @@ body {
 }
 
 .modal-label {
+    display: block;
     color: #8E8F99;
     font-family: "Roboto", sans-serif;
     font-size: 12px;
