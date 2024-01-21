@@ -850,6 +850,8 @@ body {
     align-items: center;
 }
 
+.modal-span-check {}
+
 .check-text a {
     color: #4D5AE5;
     text-decoration: underline;
