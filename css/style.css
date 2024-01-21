@@ -853,6 +853,10 @@ body {
     align-items: center;
 }
 
+.privacy-span {
+    display: inline-flex;
+}
+
 .check-text a {
     color: #4D5AE5;
     text-decoration: underline;
@@ -875,7 +879,7 @@ body {
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
-    display: inline-flex;
+
 }
 
 .send-btn {
