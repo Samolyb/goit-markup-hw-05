@@ -43,8 +43,6 @@ body {
     color: #434455;
     background-color: #FFFFFF;
     max-width: 1440px;
-    width: 100%;
-    margin: 0 auto;
 }
 
 .visually-hidden {
@@ -690,7 +688,6 @@ body {
 }
 
 .is-open {
-    width: 100%;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
